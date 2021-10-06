@@ -1,0 +1,27 @@
+<?php
+return [
+    "author"    => "Author: ",
+    "search"    => "Search",
+    "search_ur_post" => "Search your post here",
+    "sort_by"   => "Sort By",
+    "sort_latest_first"   => "Latest First",
+    "sort_older_first"   => "Oldest First",
+    "enter_post_title" =>   "Post title",
+    "save" => "Save",
+    "updated"   => "Updated successfully",
+    "delete"    => "Delete",
+    "deleted"   => "Post deleted successfully",
+    "enter_post_description"    => "Enter post description",
+    "title" => "Title",
+    "created"   => "Post Created",
+    "enter_url" => "Enter url to import posts from",
+    "import"    => "Import",
+    "post_import_progressing"   => "Please wait while we import the posts...",
+    "import_success"    => "Posts imported successfully.",
+    "import_failed"   => "There was an error while importing post",
+    "in_progress"   => "In progress",
+    "job_not_found" => "Could not find import status",
+    "unauthorized"  => "Unauthorized",
+    "delete_sure"   => "Are you sure you want to delete?",
+    "my_home"   => "My Home"
+];
