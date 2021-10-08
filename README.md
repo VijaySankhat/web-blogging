@@ -48,7 +48,7 @@ This project demonstrate the blogging features like
 
 ### Laravel features used in this demo
 - Repository Pattern (Only in home page to list guest's posts)
-    - [Reference](https://github.com/VijaySankhat/web_blogging/blob/main/app/Http/Controllers/Frontend/PostController.php#L21)
+    - [Reference](https://github.com/VijaySankhat/web-blogging/blob/main/app/Http/Controllers/Frontend/PostController.php#L21)
 
 - Policy and custom policy methods, also used authorization Blade directives to check ability 
     - [Reference](https://github.com/VijaySankhat/web_blogging/blob/main/app/Policies/PostPolicy.php)
